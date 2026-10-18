@@ -1,0 +1,20 @@
+[theme]
+base = "light"
+primaryColor = "#6366F1"
+backgroundColor = "#F5F7FF"
+secondaryBackgroundColor = "#FFFFFF"
+textColor = "#111827"
+linkColor = "#6366F1"
+borderColor = "#E2E8F0"
+showWidgetBorder = true
+baseRadius = "0.75rem"
+buttonRadius = "0.625rem"
+metricValueFontWeight = 700
+headingFontWeights = [700, 650, 600]
+redColor = "#F43F5E"
+orangeColor = "#F59E0B"
+yellowColor = "#F59E0B"
+greenColor = "#14B8A6"
+blueColor = "#6366F1"
+violetColor = "#8B5CF6"
+grayColor = "#64748B"

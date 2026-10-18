@@ -1,0 +1,30 @@
+# Python environments and bytecode
+.venv/
+venv/
+env/
+__pycache__/
+*.py[cod]
+
+# Test and tool caches
+.pytest_cache/
+.cache/
+
+# Secrets and local configuration
+.env
+.env.*
+.streamlit/secrets.toml
+*.pem
+*.key
+
+# Logs, exports, and recordings
+*.log
+inboxpilot_results.csv
+*.mp4
+*.mov
+*.webm
+
+# OS and editor metadata
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/

@@ -1,0 +1,11 @@
+message_id,received_at,candidate_name,subject,message
+M001,2026-10-12 09:10,Ada Okafor,Interview availability,"Hello, I received the interview invitation. Can we reschedule the interview time? I am available tomorrow."
+M002,2026-10-12 09:45,David Mensah,Application update,"I am following up to ask if there is any update on my application."
+M003,2026-10-12 10:02,Grace Bello,Offer details,"Thank you for the offer. Could you clarify the salary and compensation details?"
+M004,2026-10-12 10:18,Chidi Eze,Withdrawal request,"I would like to withdraw my application because I have accepted another offer."
+M005,2026-10-12 10:40,Mariam Yusuf,Portfolio submission,"Could you confirm whether I should submit my portfolio and work sample?"
+M006,2026-10-12 11:00,Sam Lee,Question,"I have a question about the next steps and would appreciate more information."
+M007,2026-10-12 11:15,Alex Morgan,Interview today,"I cannot attend the interview today and need to reschedule urgently."
+M008,2026-10-12 11:30,Jordan Smith,Hello,"Hello, just wanted to say thank you for your time."
+M009,2026-10-12 12:00,,No subject,""
+M010,2026-10-12 12:15,Taylor Adeyemi,Document question,"Which certificate should I include with my submission?"
