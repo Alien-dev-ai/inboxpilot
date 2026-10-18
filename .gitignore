@@ -10,8 +10,6 @@ __pycache__/
 .cache/
 
 # Secrets and local configuration
-.env
-.env.*
 .streamlit/secrets.toml
 *.pem
 *.key
@@ -27,4 +25,8 @@ inboxpilot_results.csv
 .DS_Store
 Thumbs.db
 .idea/
-.vscode/
+branch_structure.json
+temp_auto_push.bat
+temp_interactive_push.bat
+config.bat
+node_modules

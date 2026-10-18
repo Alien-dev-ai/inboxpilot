@@ -132,5 +132,8 @@ _Entry written 2026-10-17._
 - Added `.gitignore` (virtual environment, bytecode, test cache, secrets files, logs, exports, recordings, OS metadata).
 - File audit before Git: no secrets, credentials, `.env` files, or OS metadata found in the project files; `.venv`, `__pycache__`, and `.pytest_cache` excluded.
 - Verification: `.venv/bin/pytest -q` → 103 passed; `py_compile` of the app, modules, and tests → exit 0; the app launched with `.venv/bin/streamlit run app.py` and its health check returned `ok`.
+- Git: initialised the repository in the project folder on branch `main`; staged 19 reviewed files by name; initial commit `3294e93` ("Prepare InboxPilot Quest submission").
+- GitHub: with my confirmation, created the public repository `Alien-dev-ai/inboxpilot` under my account (empty, no extra files) and pushed `main` without force. Verified on GitHub: the latest commit matches `3294e93`; the same 19 files are present; no `.venv`, cache, or secrets files; the README contains the final Loom link; the only collaborator is my account and there are no invitations.
+- Not done: Quest submission itself.
 
 _The project was completed ahead of the five-day Quest window. No Day 2–5 entries are recorded because no further confirmed work is assigned to those days._
